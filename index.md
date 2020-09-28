@@ -13,6 +13,14 @@ Tom & William
 
 ---
 
+## 🚨🚨🚨 NEW RESEARCH ALERT 🚨🚨🚨
+
+We've released the first iteration of the RPGLite dataset! You can find our players, completed games, and application interactions in our public dataset [by following this link](http://dx.doi.org/10.5525/gla.researchdata.1070).
+
+We've also presented a paper at the [GAME-ON 2020 conference](https://www.eurosis.org/conf/gameon/2020/), in beautiful Aviero, Portugal (via zoom). It's on some of the things we learned developing the game itself, rather than research on this dataset. We'll link the paper here when it's released. 
+
+---
+
 If you're here for information about our game, you can find relevant documents
 here:
 
